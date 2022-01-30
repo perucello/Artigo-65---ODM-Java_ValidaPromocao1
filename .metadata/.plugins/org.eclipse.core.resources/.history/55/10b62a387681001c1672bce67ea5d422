@@ -8,7 +8,7 @@
 	e o descricao produto de RequestValidaPromocao é o valida produtodescricao de ValidaProduto  
 	e o fabricante produto de RequestValidaPromocao é o valida produtofabricante de ValidaProduto   
 então 
-Apresentar "Valor do Produto em promoção R$ " + o valor produto de ResponseValidaPromocao ;
+Apresentar "Valor do Produto em promoção> R$ " + o valor produto de ResponseValidaPromocao ;
 atribuir o valor produto de ResponseValidaPromocao a o valor produto de ResponseValidaPromocao ; 
 
 	]]></definition>

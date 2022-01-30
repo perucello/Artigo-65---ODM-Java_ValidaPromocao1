@@ -149,3 +149,6 @@ com.ibm.rules.studio.rve.builder.MigrationException: 1 errors. 1: Identificador 
 
 !ENTRY ilog.rules.studio.model.brl 4 4 2022-01-30 00:03:30.614
 !MESSAGE Value renderer linked to value descriptor for key: ilog.rules.brl.value.renderer.IlrStringValueRenderer does not match
+
+!ENTRY ilog.rules.studio.model.brl 4 4 2022-01-30 00:42:04.760
+!MESSAGE Value renderer linked to value descriptor for key: ilog.rules.brl.value.renderer.IlrStringValueRenderer does not match

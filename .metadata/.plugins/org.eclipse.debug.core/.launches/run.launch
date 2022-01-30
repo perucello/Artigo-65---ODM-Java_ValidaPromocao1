@@ -5,7 +5,7 @@
 <mapEntry key="RequestValidaPromocao" value="function com.educaciencia.odm.request.RequestValidaPromocao get_RequestValidaPromocao_value()"/>
 </mapAttribute>
 <mapAttribute key="ilog.rules.studio.launching.RULESET_PARAMETERS_FUNCT_VALUES">
-<mapEntry key="RequestValidaPromocao" value="com.educaciencia.odm.request.RequestValidaPromocao result = new com.educaciencia.odm.request.RequestValidaPromocao();&#10;result.nomeProduto = &quot;Monitor&quot;;&#10;result.descricaoProduto = &quot;14polegadas&quot;;&#10;result.fabricanteProduto = &quot;Sansung&quot;;&#10;return result;&#10;&#10;"/>
+<mapEntry key="RequestValidaPromocao" value="com.educaciencia.odm.request.RequestValidaPromocao result = new com.educaciencia.odm.request.RequestValidaPromocao();&#10;result.nomeProduto = &quot;Notebook&quot;;&#10;result.descricaoProduto = &quot;i3&quot;;&#10;result.fabricanteProduto = &quot;Sansung&quot;;&#10;return result;&#10;&#10;"/>
 </mapAttribute>
 <mapAttribute key="ilog.rules.studio.launching.RULESET_PARAMETERS_NAMES">
 <mapEntry key="RequestValidaPromocao" value="RequestValidaPromocao"/>
