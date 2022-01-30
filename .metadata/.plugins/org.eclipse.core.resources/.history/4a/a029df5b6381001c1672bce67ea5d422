@@ -1,0 +1,11 @@
+# Vocabulary Properties
+uuid = 2087e982-b0a1-4b17-b96e-9021fd54c2fd
+
+# com.educaciencia.odm.request.RequestValidaPromocao
+com.educaciencia.odm.request.RequestValidaPromocao#concept.label = request valida promocao
+
+# com.educaciencia.odm.response.ResponseValidaPromocao
+com.educaciencia.odm.response.ResponseValidaPromocao#concept.label = response valida promocao
+
+# com.educaciencia.odm.validaPromocao.ValidaPromocao
+com.educaciencia.odm.validaPromocao.ValidaPromocao#concept.label = valida promocao
