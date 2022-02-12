@@ -80,11 +80,11 @@
             <rule id="18753034-9be8-4df4-9cbe-b39074629d4e"/>
             <rule id="baf96a8e-448a-4a2b-90f3-20e7fc79e218"/>
         </param>
-        <param id="ValidaPromocao">
-            <rule id="18753034-9be8-4df4-9cbe-b39074629d4e"/>
-        </param>
         <param id="ResponseValidaPromocao">
             <rule id="baf96a8e-448a-4a2b-90f3-20e7fc79e218"/>
+        </param>
+        <param id="ValidaPromocao">
+            <rule id="18753034-9be8-4df4-9cbe-b39074629d4e"/>
         </param>
         <param id="ValidaProduto">
             <rule id="18753034-9be8-4df4-9cbe-b39074629d4e"/>
